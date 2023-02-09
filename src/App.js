@@ -4,7 +4,7 @@ import md5 from 'crypto-js/md5';
 import sha3 from 'crypto-js/sha3';
 import ripemd160 from 'crypto-js/ripemd160';
 import aesjs from 'aes-js';
-import crypto from "crypto-browserify";
+// import crypto from "crypto-browserify";
 // import NodeRSA from 'node-rsa';
 
 function App() {
