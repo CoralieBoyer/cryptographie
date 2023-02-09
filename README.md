@@ -1,0 +1,1 @@
+Lancer le projet avec `docker build -t my-react-app .` puis `docker run -it --rm -p 3000:3000 my-react-app`
